@@ -1,0 +1,250 @@
+<div class="item item-video0">
+ <video poster="" id="video0" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/01April_2010_Thursday_tagesschau-4329.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video1">
+ <video poster="" id="video1" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/01April_2010_Thursday_tagesschau-4330.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video2">
+ <video poster="" id="video2" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/01April_2010_Thursday_tagesschau-4331.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video3">
+ <video poster="" id="video3" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/01April_2011_Friday_tagesschau-3374.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video4">
+ <video poster="" id="video4" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/01April_2011_Friday_tagesschau-3377.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video5">
+ <video poster="" id="video5" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/01April_2011_Friday_tagesschau-3387.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video6">
+ <video poster="" id="video6" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/01December_2011_Thursday_heute-3058.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video7">
+ <video poster="" id="video7" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/01December_2011_Thursday_heute-3060.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video8">
+ <video poster="" id="video8" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/01December_2011_Thursday_tagesschau-3473.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video9">
+ <video poster="" id="video9" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/01September_2010_Wednesday_tagesschau-5039.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video10">
+ <video poster="" id="video10" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/02November_2010_Tuesday_heute-2754.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video11">
+ <video poster="" id="video11" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/02November_2010_Tuesday_tagesschau-2031.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video12">
+ <video poster="" id="video12" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/02November_2010_Tuesday_tagesschau-2039.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video13">
+ <video poster="" id="video13" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/02October_2009_Friday_tagesschau-1362.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video14">
+ <video poster="" id="video14" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/02October_2012_Tuesday_tagesschau-2847.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video15">
+ <video poster="" id="video15" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/03February_2010_Wednesday_heute-2362.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video16">
+ <video poster="" id="video16" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/03February_2010_Wednesday_tagesschau-2054.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video17">
+ <video poster="" id="video17" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/03February_2011_Thursday_tagesschau-938.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video18">
+ <video poster="" id="video18" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/03July_2009_Friday_tagesschau-2008.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video19">
+ <video poster="" id="video19" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/04April_2010_Sunday_tagesschau-4574.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video20">
+ <video poster="" id="video20" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/05November_2010_Friday_tagesschau-1872.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video21">
+ <video poster="" id="video21" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/06February_2010_Saturday_tagesschau-7365.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video22">
+ <video poster="" id="video22" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/08January_2010_Friday_tagesschau-3981.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video23">
+ <video poster="" id="video23" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/10January_2011_Monday_tagesschau-6404.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video24">
+ <video poster="" id="video24" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/12May_2010_Wednesday_tagesschau-323.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video25">
+ <video poster="" id="video25" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/14April_2010_Wednesday_tagesschau-3809.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video26">
+ <video poster="" id="video26" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/15September_2010_Wednesday_tagesschau-5210.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video27">
+ <video poster="" id="video27" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/16December_2009_Wednesday_tagesschau-5907.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video28">
+ <video poster="" id="video28" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/16June_2010_Wednesday_tagesschau-8148.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video29">
+ <video poster="" id="video29" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/17July_2009_Friday_tagesschau-5101.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video30">
+ <video poster="" id="video30" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/20May_2010_Thursday_tagesschau-3151.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video31">
+ <video poster="" id="video31" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/20November_2009_Friday_tagesschau-6560.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video32">
+ <video poster="" id="video32" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/20November_2009_Friday_tagesschau-6562.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video33">
+ <video poster="" id="video33" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/20November_2009_Friday_tagesschau-6566.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video34">
+ <video poster="" id="video34" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/21May_2010_Friday_tagesschau-5097.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video35">
+ <video poster="" id="video35" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/22April_2010_Thursday_tagesschau-3736.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video36">
+ <video poster="" id="video36" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/22April_2010_Thursday_tagesschau-3738.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video37">
+ <video poster="" id="video37" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/22August_2010_Sunday_tagesschau-1345.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video38">
+ <video poster="" id="video38" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/23December_2010_Thursday_tagesschau-1430.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video39">
+ <video poster="" id="video39" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/23January_2011_Sunday_tagesschau-7823.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video40">
+ <video poster="" id="video40" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/24October_2010_Sunday_tagesschau-2908.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video41">
+ <video poster="" id="video41" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/25August_2010_Wednesday_tagesschau-8507.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video42">
+ <video poster="" id="video42" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/25January_2011_Tuesday_tagesschau-2993.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video43">
+ <video poster="" id="video43" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/25March_2011_Friday_tagesschau-5828.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video44">
+ <video poster="" id="video44" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/25October_2010_Monday_tagesschau-24.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video45">
+ <video poster="" id="video45" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/26April_2010_Monday_heute-3398.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video46">
+ <video poster="" id="video46" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/26April_2010_Monday_tagesschau-7272.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video47">
+ <video poster="" id="video47" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/26August_2009_Wednesday_tagesschau-3225.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video48">
+ <video poster="" id="video48" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/29October_2009_Thursday_tagesschau-1024.mp4" type="video/mp4">
+ </video>
+</div>
+<div class="item item-video49">
+ <video poster="" id="video49" controls muted loop height="100%" preload="metadata">
+  <source src="static/videos/30November_2009_Monday_tagesschau-5755.mp4" type="video/mp4">
+ </video>
+</div>
