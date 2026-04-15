@@ -707,20 +707,14 @@ code {
   }
 }
 
-/* Animation for page load */
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translateY(30px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
+/* Scroll-triggered section reveal */
+#main-content > section {
+  transition: opacity 0.6s ease-out, transform 0.6s ease-out;
 }
 
-.hero, .section {
-  animation: fadeInUp 0.6s ease-out;
+#main-content > section.revealed {
+  opacity: 1 !important;
+  transform: translateY(0) !important;
 }
 
 /* Improved focus states for accessibility */
@@ -737,15 +731,119 @@ a:focus {
   .more-works-container {
     display: none;
   }
-  
-  .hero, .section {
-    animation: none;
+
+  .project-nav {
+    display: none;
   }
-  
+
+  #main-content > section {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+
   .button {
     background: transparent !important;
     color: var(--text-primary) !important;
     box-shadow: none !important;
+  }
+}
+
+
+/* Sticky Navigation */
+.project-nav {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--border-color);
+  padding: 0.75rem 0;
+  transition: box-shadow 0.3s;
+}
+
+.project-nav.scrolled {
+  box-shadow: var(--shadow-md);
+}
+
+.nav-inner {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+}
+
+.nav-inner a {
+  color: var(--text-secondary);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+  transition: var(--transition);
+  padding: 0.5rem 0;
+  position: relative;
+}
+
+.nav-inner a:hover,
+.nav-inner a.active {
+  color: var(--primary-color);
+}
+
+.nav-inner a.active::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: var(--primary-color);
+  border-radius: 1px;
+}
+
+
+/* Image Lightbox */
+.lightbox-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: rgba(0, 0, 0, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: zoom-out;
+  animation: lightboxFadeIn 0.2s ease;
+}
+
+.lightbox-overlay img {
+  max-width: 95vw;
+  max-height: 95vh;
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow-xl);
+}
+
+@keyframes lightboxFadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+
+/* Mobile button layout improvement */
+@media screen and (max-width: 480px) {
+  .publication-links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5rem;
+  }
+
+  .link-block {
+    margin: 0 !important;
+  }
+
+  .link-block .button {
+    width: auto;
+    min-width: 120px;
+    justify-content: center;
   }
 }
 
