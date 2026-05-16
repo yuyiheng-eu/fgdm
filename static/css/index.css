@@ -827,6 +827,30 @@ a:focus {
 }
 
 
+/* Interaction System Video */
+.interaction-video-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto 2rem;
+  border-radius: var(--border-radius-lg);
+  overflow: hidden;
+  box-shadow: var(--shadow-xl);
+  transition: var(--transition);
+}
+
+.interaction-video-wrapper:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 25px 50px -12px rgb(0 0 0 / 0.2);
+}
+
+.interaction-video-wrapper video {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: var(--border-radius-lg);
+}
+
 /* Mobile button layout improvement */
 @media screen and (max-width: 480px) {
   .publication-links {
